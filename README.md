@@ -1,6 +1,6 @@
-# cicd-app
+# ci-cd-final-project
 
-**Project name:** cicd-app
+**Project name:** ci-cd-final-project
 
 This repository is my submission for the Final Project of the Coursera course **CI/CD Tools and Practices**, built from the official ci-cd-final-project template.
 
